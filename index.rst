@@ -11,7 +11,7 @@ Tarefas
 -------
 Tarefas :ref:`Autores`
 
-Atividades de Chamada :ref:`autores`
+Atividades de Chamada :ref:`Patrocinadores`
 
 Subprocesso Compactado
 
@@ -49,3 +49,12 @@ Eventos
 * :ref:`modindex`
 * :ref:`search`
 
+
+.. _target to image:
+
+.. figure:: /img/logo.png
+   :alt: Logo
+   :align: center
+   :width: 240px
+
+   Link me!
