@@ -1,15 +1,25 @@
-Titulo
-======
-# Guia de modelagem
-Guia de modelagem em BPMN e DMN
-SubTitulo
-----------
-- Item 1
-- Item 2
-- Item 3
+.. Read the Docs Template documentation master file, created by
+   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Read the Docs Template's documentation!
+==================================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   *
 
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
