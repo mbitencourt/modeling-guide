@@ -53,11 +53,11 @@ Eventos
 DMN
 ---
 
-:ref:`Elementos da Notação BPMN`
+bpmn :ref:`Elementos da Notação BPMN`
 
-:ref:`ElementosDMN`
+dmn :ref:`ElementosDMN`
 
-
+Reference `My target`_.
 
 .. _target to image:
 

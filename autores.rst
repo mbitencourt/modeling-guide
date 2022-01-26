@@ -14,3 +14,8 @@ Organizações Parceiras
 **********************
 
 Empresas que contribuiram para este trabalho
+
+.. _My target:
+
+Explicit targets
+~~~~~~~~~~~~~~~~
