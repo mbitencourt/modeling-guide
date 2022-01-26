@@ -3,21 +3,41 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Guia para Modelagem de Processos e Regras de Decisão
+====================================================
 
-Contents:
+Conteúdo:
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
+BPMN 2.0 - Business Process Model and Notation
+==============================================
 
-   *
+Tarefas
+-------
+Tarefas
+Atividades de Chamada
+
+Subprocesso Compactado
+Transações
+Subprocess de Evento
+Subprocesso Expandido
+
+Tipos de Tarefas
+----------------
+Enviar
+Receber
+Usuário
+Manual
+Regra de Negócio
+Serviço
+Script
+
+Marcadores
+----------
 
 
 
-Indices and tables
-==================
+Eventos
+-------
 
 * :ref:`genindex`
 * :ref:`modindex`
