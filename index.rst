@@ -50,6 +50,15 @@ Eventos
 * :ref:`search`
 
 
+DMN
+---
+
+:ref:`Elementos da Notação BPMN`
+
+:ref:`ElementosDMN`
+
+
+
 .. _target to image:
 
 .. figure:: /img/logo.png
