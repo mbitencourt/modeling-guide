@@ -1,8 +1,4 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+====================================================
 Guia para Modelagem de Processos e Regras de Decisão
 ====================================================
 
@@ -13,7 +9,8 @@ BPMN 2.0 - Business Process Model and Notation
 
 Tarefas
 -------
-Tarefas
+Tarefas :ref:`Autores`
+
 Atividades de Chamada
 
 Subprocesso Compactado
