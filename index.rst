@@ -17,18 +17,27 @@ Tarefas
 Atividades de Chamada
 
 Subprocesso Compactado
+
 Transações
+
 Subprocess de Evento
+
 Subprocesso Expandido
 
 Tipos de Tarefas
 ----------------
 Enviar
+
 Receber
+
 Usuário
+
 Manual
+
 Regra de Negócio
+
 Serviço
+
 Script
 
 Marcadores
