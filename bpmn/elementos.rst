@@ -1,4 +1,7 @@
-#   Elementos da notação DMN'
+Elementos da notação BPMN
+=========================
+
+
 #   
 #   .. autosummary::
    :toctree: generated

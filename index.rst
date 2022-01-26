@@ -7,3 +7,9 @@ SubTitulo
 - Item 1
 - Item 2
 - Item 3
+
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
